@@ -3518,6 +3518,42 @@
 	}
 
 .js_logo {
-	height: 88px;
-	width: 88px;
+	height: 80px;
+	width: 80px;
+}
+
+.react_logo {
+	height: 80px;
+	width: 110px;
+}
+
+.node_logo {
+	height: 90px;
+	width: 175px;
+}
+
+.redux_logo {
+	height: 70px;
+	width: 70px;
+}
+
+.project_title_center {
+	display: flex;
+	justify-content: center;
+	margin-top: -2vh;
+	margin-bottom: 4vh;
+}
+
+.project_title {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 50px;
+	color: #484b49;
+	height: 8vh;
+	width: 60vw;
+	background-color: #f7f7f7;
+    text-decoration: underline;
+	text-decoration-color: grey;
+	z-index: 1;
 }
